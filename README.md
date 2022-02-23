@@ -1,2 +1,2 @@
 # responsive-navbar
-A simple resposive navbar with JavaScript
+A simple responsive navbar with JavaScript
